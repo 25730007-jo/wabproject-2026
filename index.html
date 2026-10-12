@@ -1,1 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>에셋찾기 | 무료 이미지·에셋 사이트 탐색</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" data-page="home">에셋찾기 <small>무료 이미지 · 에셋 사이트 탐색</small></a>
+    <nav class="toplinks" aria-label="주요 메뉴">
+      <button data-page="home" class="nav-link active">홈</button>
+      <button data-page="explore" class="nav-link">탐색</button>
+      <button data-page="my" class="nav-link">저장 목록 <span id="savedBadge"></span></button>
+    </nav>
+  </header>
 
+  <main>
+    <section id="homePage" class="page active">
+      <div class="eyebrow">FREE ASSET DIRECTORY / HOME</div>
+      <section class="hero">
+        <p class="eyebrow">DESIGN RESOURCE FINDER</p>
+        <h1>필요한 무료 에셋을<br>한곳에서 찾아보세요.</h1>
+        <p>이미지, 아이콘, 일러스트, 폰트 사이트를 탐색하고 원본 사이트에서 이용 조건을 확인하세요.</p>
+        <button class="btn primary" data-page="explore">에셋 탐색하기 →</button>
+      </section>
+
+      <section class="section-head"><h2>무엇을 찾고 있나요?</h2><button class="text-button" data-page="explore">전체 보기 →</button></section>
+      <div class="chips">
+        <button class="chip" data-category-link="사진">사진</button>
+        <button class="chip" data-category-link="일러스트">일러스트</button>
+        <button class="chip" data-category-link="아이콘">아이콘</button>
+        <button class="chip" data-category-link="폰트">폰트</button>
+        <button class="chip" data-category-link="템플릿">템플릿</button>
+      </div>
+
+      <section class="section-head"><h2>추천 사이트</h2><button class="text-button" data-page="explore">모두 보기 →</button></section>
+      <div class="grid" id="recommendedSites"></div>
+
+      <section class="section-head"><h2>빠른 검색</h2></section>
+      <form class="search-form" id="homeSearchForm">
+        <input id="homeQuery" type="search" placeholder="예: 자연 사진, 아이콘, 일러스트" aria-label="검색어">
+        <button class="btn primary" type="submit">검색하기</button>
+      </form>
+    </section>
+
+    <section id="explorePage" class="page">
+      <div class="eyebrow">EXPLORE / SEARCH</div>
+      <h1>에셋 사이트 탐색</h1>
+      <p class="lead">키워드와 카테고리로 원하는 리소스를 제공하는 사이트를 찾아보세요.</p>
+      <div class="filter-panel">
+        <form class="search-form" id="searchForm">
+          <input id="searchQuery" type="search" placeholder="어떤 에셋을 찾고 있나요?" aria-label="검색어">
+          <button class="btn primary" type="submit">검색</button>
+        </form>
+        <div class="section-head compact"><h3>카테고리</h3></div>
+        <div class="chips" id="categoryChips">
+          <button class="chip active" data-category="전체">전체</button>
+          <button class="chip" data-category="사진">사진</button>
+          <button class="chip" data-category="일러스트">일러스트</button>
+          <button class="chip" data-category="아이콘">아이콘</button>
+          <button class="chip" data-category="폰트">폰트</button>
+          <button class="chip" data-category="템플릿">템플릿</button>
+        </div>
+      </div>
+      <div class="result-line"><span id="resultCount">사이트 6개</span>
+        <label class="sort-label">정렬
+          <select id="sortSelect"><option value="relevance">관련도순</option><option value="name">사이트명순</option></select>
+        </label>
+      </div>
+      <div class="grid" id="siteResults"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <div class="empty-symbol">⌕</div><h3>검색 결과가 없습니다.</h3>
+        <p>검색어를 바꾸거나 카테고리 조건을 해제해 보세요.</p>
+        <button class="btn" id="resetSearch">조건 초기화</button>
+      </div>
+    </section>
+
+    <section id="detailPage" class="page">
+      <div class="eyebrow">SITE DETAIL / RESOURCE INFORMATION</div>
+      <button class="back-link" data-page="explore">← 탐색 목록으로</button>
+      <div class="detail-layout">
+        <div class="detail-image">대표 이미지 / 사이트 로고 자리</div>
+        <div class="detail-summary">
+          <div class="inline-between"><span class="eyebrow">FREE RESOURCE SITE</span><button class="btn" id="detailSaveButton">☆ 저장</button></div>
+          <h1 id="detailName">사이트명</h1>
+          <p class="lead" id="detailDescription"></p>
+          <div class="tags" id="detailTags"></div>
+          <a class="btn primary full" id="externalLink" href="#" target="_blank" rel="noopener noreferrer">원본 사이트 열기 ↗</a>
+          <p class="fine-print">원본 사이트에서 최신 이용 조건과 라이선스를 확인하세요.</p>
+        </div>
+      </div>
+      <section class="info-panel">
+        <h2>사이트 정보</h2>
+        <dl class="info-list">
+          <div><dt>제공 유형</dt><dd id="detailType"></dd></div>
+          <div><dt>무료 이용 범위</dt><dd id="detailFree"></dd></div>
+          <div><dt>라이선스 안내</dt><dd>상업적 이용, 수정, 출처 표기 여부는 원본 사이트의 공식 라이선스에서 확인해야 합니다.</dd></div>
+          <div><dt>원본 주소</dt><dd id="detailUrl"></dd></div>
+        </dl>
+      </section>
+      <div class="notice">이 서비스는 탐색을 돕는 참고 정보를 제공합니다. 실제 사용 전에는 원본 사이트의 최신 라이선스를 확인하세요.</div>
+    </section>
+
+    <section id="myPage" class="page">
+      <div class="eyebrow">MY / SAVED SITES</div>
+      <h1>저장 목록</h1>
+      <p class="lead">관심 있는 무료 이미지·에셋 사이트를 저장하고 다시 확인할 수 있어요.</p>
+      <div class="section-head"><h2>즐겨찾기</h2><span class="muted" id="savedCount">0개 저장</span></div>
+      <div class="grid" id="savedSites"></div>
+      <div class="empty-state" id="emptySaved">
+        <div class="empty-symbol">☆</div><h3>저장한 사이트가 없습니다.</h3>
+        <p>탐색 중 마음에 드는 사이트를 저장하면 여기에 표시됩니다.</p>
+        <button class="btn primary" data-page="explore">사이트 탐색하기</button>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">무료 이미지·에셋 사이트 탐색 서비스 · MVP 와이어프레임</footer>
+  <script src="js/app.js"></script>
+</body>
+</html>
