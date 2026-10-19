@@ -9,8 +9,7 @@ const sites = [
 let activeCategory = "전체";
 let currentSiteId = "undraw";
 
-const $ = (selector) => document.querySelector(selector);
-const $$ = (selector) => [...document.querySelectorAll(selector)];
+const $ = (selector) => document.querySelector(selector); const $$ = (selector) => [...document.querySelectorAll(selector)];
 
 function getSaved() {
   try { return JSON.parse(localStorage.getItem("assetFavorites") || "[]"); }
@@ -33,7 +32,7 @@ function showPage(name) {
   $$(".page").forEach(page => page.classList.remove("active"));
   const page = $(`#${name}Page`);
   if (page) page.classList.add("active");
-  $$(".nav-link").forEach(link => link.classList.toggle("active", link.dataset.page === name || (name === "detail" && link.dataset.page === "explore")));
+  $$(".tab-link").forEach(link => link.classList.toggle("active", link.dataset.page === name || (name === "detail" && link.dataset.page === "explore")));
   if (name === "explore") renderExplore();
   if (name === "my") renderSaved();
   window.scrollTo({top:0, behavior:"instant"});
@@ -71,8 +70,7 @@ function renderExplore() {
   $("#siteResults").innerHTML = filtered.map(site=>cardMarkup(site,true)).join("");
   $("#resultCount").textContent = `사이트 ${filtered.length}개`;
   $("#emptyState").hidden = filtered.length > 0;
-  $("#siteResults").hidden = filtered.length === 0;
-  $$("#categoryChips .chip").forEach(chip => chip.classList.toggle("active", chip.dataset.category === activeCategory));
+  $("#siteResults").hidden = filtered.length === 0; $$("#categoryChips .chip").forEach(chip => chip.classList.toggle("active", chip.dataset.category === activeCategory));
   bindCardActions($("#siteResults"));
 }
 function setCategory(category) { activeCategory = category; renderExplore(); }
@@ -120,8 +118,8 @@ function init() {
   renderExplore();
   renderSaved();
   updateSavedBadge();
-  $$("[data-page]").forEach(button => button.addEventListener("click", () => showPage(button.dataset.page)));
-  $$("[data-category-link]").forEach(button => button.addEventListener("click", () => { showPage("explore"); setCategory(button.dataset.categoryLink); }));
+  $$("[data-page]").forEach(button => button.addEventListener("click", () => showPage(button.dataset.page))); $$
+("[data-category-link]").forEach(button => button.addEventListener("click", () => { showPage("explore"); setCategory(button.dataset.categoryLink); }));
   $("#homeSearchForm").addEventListener("submit", event => { event.preventDefault(); applySearch($("#homeQuery").value); });
   $("#searchForm").addEventListener("submit", event => { event.preventDefault(); renderExplore(); });
   $("#searchQuery").addEventListener("input", renderExplore);
