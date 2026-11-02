@@ -1,0 +1,688 @@
+[
+  {
+    "name": "Best Free Fonts",
+    "url": "https://bestfreefonts.com",
+    "category": "font",
+    "description": "A gallery of free fonts with SIL Open Font License.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "DaFont",
+    "url": "https://www.dafont.com",
+    "category": "font",
+    "description": "Archive of downloadable fonts searchable by style, author, and popularity.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com",
+    "category": "font",
+    "description": "Free and open-source font families with web and Android integration.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Use & Modify",
+    "url": "https://usemodify.com",
+    "category": "font",
+    "description": "Curated typefaces released under open-source licenses.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Font Fabric",
+    "url": "https://www.fontfabric.com/font-tag/free-fonts/",
+    "category": "font",
+    "description": "Digital type foundry with free font selections.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Font Squirrel",
+    "url": "https://www.fontsquirrel.com",
+    "category": "font",
+    "description": "Fonts curated for legitimate free use.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "FontsWiki",
+    "url": "https://fontswiki.com",
+    "category": "font",
+    "description": "Font discovery site with free alternatives and font-in-use examples.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "FreeFaces",
+    "url": "https://www.freefaces.gallery/",
+    "category": "font",
+    "description": "Curated collection of typefaces available under various free licenses.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Lost Type Co-op",
+    "url": "https://losttype.com",
+    "category": "font",
+    "description": "Collaborative digital type foundry.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Google Web Fonts Typographic Project",
+    "url": "https://femmebot.github.io/google-type/",
+    "category": "font",
+    "description": "Showcase of Google Fonts and their typographic features.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com",
+    "category": "font",
+    "description": "Open-source type foundry.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Velvetyne Type Foundry",
+    "url": "https://velvetyne.fr",
+    "category": "font",
+    "description": "Publishes open-source fonts.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Font Library",
+    "url": "https://fontlibrary.org",
+    "category": "font",
+    "description": "Library of open-source fonts for multiple languages and scripts.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "CLT",
+    "url": "https://www.collletttivo.it/typefaces/",
+    "category": "font",
+    "description": "Typefaces released under SIL Open Font License.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Icons8",
+    "url": "https://icons8.com/icons",
+    "category": "icon",
+    "description": "Design elements including icons and other visual assets.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "The Noun Project",
+    "url": "https://thenounproject.com",
+    "category": "icon",
+    "description": "Collection of icons and stock photos.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Ionicons",
+    "url": "https://ionic.io/ionicons",
+    "category": "icon",
+    "description": "Open-source MIT-licensed icons for web, mobile, and desktop.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Simple Icons",
+    "url": "https://simpleicons.org",
+    "category": "icon",
+    "description": "Free SVG icons for popular brands.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "FontAwesome",
+    "url": "https://fontawesome.com",
+    "category": "icon",
+    "description": "Icon and font toolkit.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Feather",
+    "url": "https://feathericons.com",
+    "category": "icon",
+    "description": "Open-source icon collection with consistent 24 by 24 designs.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Material Symbols",
+    "url": "https://fonts.google.com/icons",
+    "category": "icon",
+    "description": "Google variable icon font with adjustable visual properties.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Phosphor Icons",
+    "url": "https://phosphoricons.com",
+    "category": "icon",
+    "description": "Flexible icon family for interfaces, diagrams, and presentations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Streamline",
+    "url": "https://streamlinehq.com/",
+    "category": "icon",
+    "description": "Collection of icons, illustrations, emojis, and visual assets.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Iconmonstr",
+    "url": "https://iconmonstr.com",
+    "category": "icon",
+    "description": "Library of simple icons.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Heroicons",
+    "url": "https://heroicons.com",
+    "category": "icon",
+    "description": "Free MIT-licensed SVG icons.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Bootstrap Icons",
+    "url": "https://icons.getbootstrap.com",
+    "category": "icon",
+    "description": "Official open-source SVG icon library for Bootstrap.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Eva Icons",
+    "url": "https://akveo.github.io/eva-icons",
+    "category": "icon",
+    "description": "Open-source icon pack.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "AutoDraw",
+    "url": "https://www.autodraw.com",
+    "category": "icon",
+    "description": "Google tool that turns rough sketches into editable icons.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Lucide",
+    "url": "https://lucide.dev",
+    "category": "icon",
+    "description": "Open-source icon library forked from Feather Icons.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Tabler Icons",
+    "url": "https://tabler.io/icons",
+    "category": "icon",
+    "description": "MIT-licensed SVG icon library.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Iconoir",
+    "url": "https://iconoir.com",
+    "category": "icon",
+    "description": "Open-source SVG icon library with React and Vue components.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Remix Icon",
+    "url": "https://remixicon.com",
+    "category": "icon",
+    "description": "Open-source icon set for designers and developers.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "category": "photo",
+    "description": "Free images and photos for projects.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com/",
+    "category": "photo",
+    "description": "Free stock photos and videos.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "category": "photo",
+    "description": "Community library of images, videos, and music.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Shopify Stock Photos",
+    "url": "https://www.shopify.com/stock-photos",
+    "category": "photo",
+    "description": "Free stock photos and images for websites and commercial use.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Kaboompics",
+    "url": "https://kaboompics.com",
+    "category": "photo",
+    "description": "Free images for personal and commercial use, with photo color palettes.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "StockSnap",
+    "url": "https://stocksnap.io",
+    "category": "photo",
+    "description": "High-resolution stock photos.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Gratisography",
+    "url": "https://gratisography.com",
+    "category": "photo",
+    "description": "Collection of high-resolution free stock photos.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Picjumbo",
+    "url": "https://picjumbo.com",
+    "category": "photo",
+    "description": "Free photos for personal and commercial use.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Life of Pix",
+    "url": "https://www.lifeofpix.com",
+    "category": "photo",
+    "description": "Free high-resolution photography.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "New Old Stock",
+    "url": "https://nos.twnsnd.co",
+    "category": "photo",
+    "description": "Vintage photos from public archives.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "SplitShire",
+    "url": "https://www.splitshire.com",
+    "category": "photo",
+    "description": "Stock photos for personal and commercial use.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "DrawKit",
+    "url": "https://www.drawkit.com/",
+    "category": "illustration",
+    "description": "Free vector SVG illustrations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Open Peeps",
+    "url": "https://www.openpeeps.com",
+    "category": "illustration",
+    "description": "Hand-drawn illustration library for creating scenes with people.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Open Doodles",
+    "url": "https://www.opendoodles.com",
+    "category": "illustration",
+    "description": "Sketch-style illustrations of people.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Illustrations",
+    "url": "https://illustrations.co",
+    "category": "illustration",
+    "description": "Open-source illustration collection.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Blush",
+    "url": "https://blush.design",
+    "category": "illustration",
+    "description": "Illustration platform featuring work from selected artists.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Humaaans",
+    "url": "https://www.humaaans.com",
+    "category": "illustration",
+    "description": "Mix-and-match illustrations of people.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "unDraw",
+    "url": "https://undraw.co/illustrations",
+    "category": "illustration",
+    "description": "Open-source illustrations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Lukas Zadam",
+    "url": "https://lukaszadam.com/illustrations",
+    "category": "illustration",
+    "description": "Free illustrations and resources by an independent artist.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "IRA Design",
+    "url": "https://www.creative-tim.com/tools/ira-design",
+    "category": "illustration",
+    "description": "Customizable illustrations with colors, shapes, and elements.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Skribbl",
+    "url": "https://weareskribbl.com",
+    "category": "illustration",
+    "description": "Hand-drawn illustrations in multiple categories.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Ouch!",
+    "url": "https://icons8.com/ouch",
+    "category": "illustration",
+    "description": "Illustration collection in various styles and categories.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Absurd Design",
+    "url": "https://absurd.design",
+    "category": "illustration",
+    "description": "Surrealist illustrations for creative projects.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Patterns.page",
+    "url": "https://patterns.page/",
+    "category": "illustration",
+    "description": "Toolbox with patterns, illustrations, and design assets.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Illustroke",
+    "url": "https://illustroke.com",
+    "category": "illustration",
+    "description": "AI tool for generating SVG vector illustrations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Recraft",
+    "url": "https://www.recraft.ai",
+    "category": "illustration",
+    "description": "AI-powered tool for creating and editing vector art and illustrations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Kittl",
+    "url": "https://www.kittl.com",
+    "category": "illustration",
+    "description": "Design platform for illustrations and print-ready designs.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "category": "vector",
+    "description": "A community sharing free images, videos, and music.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Vecteezy",
+    "url": "https://www.vecteezy.com",
+    "category": "vector",
+    "description": "Free and premium vector art, clipart graphics, templates, and illustrations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "VectorStock",
+    "url": "https://www.vectorstock.com",
+    "category": "vector",
+    "description": "Free and premium vector art and illustrations.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Public Domain Vectors",
+    "url": "https://publicdomainvectors.org",
+    "category": "vector",
+    "description": "A collection of free vector images in the public domain.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Vector Portal",
+    "url": "https://www.vectorportal.com",
+    "category": "vector",
+    "description": "Free vector images, clipart, and vector graphics.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Flaticon",
+    "url": "https://www.flaticon.com",
+    "category": "vector",
+    "description": "Vector and icon assets available in formats including PNG, SVG, EPS, and PSD.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Vector4Free",
+    "url": "https://www.vector4free.com",
+    "category": "vector",
+    "description": "A curated collection of free vector graphics.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Stockio",
+    "url": "https://www.stockio.com",
+    "category": "vector",
+    "description": "Free vectors, photos, videos, and fonts for personal and commercial use.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Illustroke",
+    "url": "https://illustroke.com",
+    "category": "vector",
+    "description": "AI-generated vector SVG illustrations; free previews with paid downloads.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "SVGRepo",
+    "url": "https://www.svgrepo.com",
+    "category": "vector",
+    "description": "A large collection of open-licensed SVG vectors and icons.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Sketch App Sources",
+    "url": "https://www.sketchappsources.com",
+    "category": "ui-kit",
+    "description": "A collection of Sketch files, resources, and tutorials.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "UI8",
+    "url": "https://ui8.net",
+    "category": "ui-kit",
+    "description": "Marketplace for UI kits, design systems, and resources; includes premium content.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Creative Tim",
+    "url": "https://www.creative-tim.com",
+    "category": "ui-kit",
+    "description": "Bootstrap UI kits, templates, and design tools for web development.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Tilda",
+    "url": "https://tilda.cc",
+    "category": "ui-kit",
+    "description": "Web design platform with a collection of UI kits and templates.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Freebiesbug",
+    "url": "https://freebiesbug.com",
+    "category": "ui-kit",
+    "description": "Curated collection of free design resources, including UI kits and templates.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Pixel Buddha",
+    "url": "https://pixelbuddha.net",
+    "category": "ui-kit",
+    "description": "Free and premium design resources, including UI kits, templates, and mockups.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "UI Kitten",
+    "url": "https://akveo.github.io",
+    "category": "ui-kit",
+    "description": "React Native UI library with customizable UI kits.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Designmodo",
+    "url": "https://designmodo.com",
+    "category": "ui-kit",
+    "description": "Free and premium UI kits, templates, and design tools.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "UIKit",
+    "url": "https://getuikit.com",
+    "category": "ui-kit",
+    "description": "Lightweight modular front-end framework for building web interfaces.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "UI Design Daily",
+    "url": "https://www.uidesigndaily.com",
+    "category": "ui-kit",
+    "description": "Daily UI design inspiration and free UI kits.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Material UI",
+    "url": "https://mui.com",
+    "category": "ui-kit",
+    "description": "React components for web development based on Material Design.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Figma Community",
+    "url": "https://www.figma.com/community",
+    "category": "ui-kit",
+    "description": "Community collection of UI kits, templates, and design resources.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Craftwork",
+    "url": "https://craftwork.design",
+    "category": "ui-kit",
+    "description": "Marketplace for UI kits, templates, and design resources.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "PSD Repo",
+    "url": "https://psdrepo.com",
+    "category": "ui-kit",
+    "description": "Collection of free PSD UI kits and templates.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "SketchRepo",
+    "url": "https://sketchrepo.com",
+    "category": "ui-kit",
+    "description": "Free Sketch UI kits and resources.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "UI Store",
+    "url": "https://www.uistore.design",
+    "category": "ui-kit",
+    "description": "Free and premium UI kits, templates, and design resources.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "HTMLrev",
+    "url": "https://htmlrev.com",
+    "category": "ui-kit",
+    "description": "Free HTML and CSS templates, UI libraries, and boilerplates.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "21st.dev",
+    "url": "https://21st.dev",
+    "category": "ui-kit",
+    "description": "Community-driven registry of React UI components built with Tailwind CSS and Radix UI.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com",
+    "category": "ui-kit",
+    "description": "Accessible UI components built with Tailwind CSS and Radix UI primitives.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Radix UI",
+    "url": "https://www.radix-ui.com",
+    "category": "ui-kit",
+    "description": "Open-source accessible UI primitives.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "DaisyUI",
+    "url": "https://daisyui.com",
+    "category": "ui-kit",
+    "description": "Tailwind CSS component library with styled, themeable UI components.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Uiverse",
+    "url": "https://uiverse.io",
+    "category": "ui-kit",
+    "description": "Open-source community library of HTML and CSS UI elements.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Magic UI",
+    "url": "https://magicui.design",
+    "category": "ui-kit",
+    "description": "Collection of open-source animated React components.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Aceternity UI",
+    "url": "https://ui.aceternity.com",
+    "category": "ui-kit",
+    "description": "React components with animations using Tailwind CSS and Framer Motion.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Headless UI",
+    "url": "https://headlessui.com",
+    "category": "ui-kit",
+    "description": "Unstyled accessible UI components for React and Vue.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Ark UI",
+    "url": "https://ark-ui.com",
+    "category": "ui-kit",
+    "description": "Headless UI component library for React, Vue, and Solid.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Park UI",
+    "url": "https://park-ui.com",
+    "category": "ui-kit",
+    "description": "Component library built on Ark UI.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "HeroUI",
+    "url": "https://heroui.com",
+    "category": "ui-kit",
+    "description": "React UI library with theme support and accessible components.",
+    "source": "reinaldosimoes/design-resources"
+  },
+  {
+    "name": "Tremor",
+    "url": "https://www.tremor.so",
+    "category": "ui-kit",
+    "description": "React components for dashboards, charts, tables, and data visualization.",
+    "source": "reinaldosimoes/design-resources"
+  }
+]
