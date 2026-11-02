@@ -1,11 +1,45 @@
-const sites = [
-  {id:"unsplash", name:"Unsplash", category:"사진", type:"사진 · 배경 이미지", description:"사진과 배경 이미지를 탐색할 수 있는 사이트", url:"https://unsplash.com/", free:"무료 이용 가능 여부와 세부 조건은 공식 라이선스에서 확인", tags:["사진","배경 이미지","무료 이용 정보"]},
-  {id:"pexels", name:"Pexels", category:"사진", type:"사진 · 동영상", description:"사진과 동영상 리소스를 탐색할 수 있는 사이트", url:"https://www.pexels.com/", free:"무료 이용 범위 및 제한은 원본 사이트에서 확인", tags:["사진","동영상","무료 이용 정보"]},
-  {id:"undraw", name:"unDraw", category:"일러스트", type:"일러스트 · SVG", description:"디자인 프로젝트에 활용할 수 있는 일러스트 리소스 사이트", url:"https://undraw.co/", free:"무료 리소스 제공 여부 및 사용 조건은 공식 안내 확인", tags:["일러스트","SVG","라이선스 확인"]},
-  {id:"opendoodles", name:"Open Doodles", category:"일러스트", type:"캐릭터 · 일러스트", description:"캐릭터와 일러스트 리소스를 탐색할 수 있는 사이트", url:"https://www.opendoodles.com/", free:"무료 이용 범위와 사용 조건은 공식 안내 확인", tags:["캐릭터","일러스트","라이선스 확인"]},
-  {id:"heroicons", name:"Heroicons", category:"아이콘", type:"아이콘 · UI", description:"웹 인터페이스에 활용하는 아이콘 모음", url:"https://heroicons.com/", free:"프로젝트 적용 전 공식 라이선스 확인", tags:["아이콘","UI","오픈소스"]},
-  {id:"fonts", name:"Google Fonts", category:"폰트", type:"폰트 · 타이포그래피", description:"웹과 디자인 작업에 사용할 글꼴을 탐색하는 사이트", url:"https://fonts.google.com/", free:"글꼴별 라이선스 및 사용 조건 확인", tags:["폰트","타이포그래피","라이선스 확인"]}
-];
+let sites = [];
+
+const categoryMap = {
+  font: "폰트",
+  icon: "아이콘",
+  photo: "사진",
+  illustration: "일러스트",
+  vector: "벡터",
+  "ui-kit": "UI 키트"
+};
+
+// JSON 데이터 불러오기
+async function loadSites() {
+  try {
+    const response = await fetch("data/asset_hub_sites_dataset.json");
+
+    if (!response.ok) {
+      throw new Error("데이터 파일을 불러오지 못했습니다.");
+    }
+
+    const data = await response.json();
+
+    sites = data.map((item, index) => {
+      const category = categoryMap[item.category] || item.category;
+
+      return {
+        id: `${item.category}-${item.name}-${index}`,
+        name: item.name,
+        category: category,
+        type: category,
+        description: item.description,
+        url: item.url,
+        free: item.description,
+        tags: [category, item.source || "에셋 사이트"]
+      };
+    });
+
+  } catch (error) {
+    console.error("사이트 데이터 로딩 오류:", error);
+    alert("사이트 데이터를 불러오지 못했습니다. 데이터 파일 경로를 확인해주세요.");
+  }
+}
 let activeCategory = "전체";
 let currentSiteId = "undraw";
 
@@ -56,7 +90,14 @@ function bindCardActions(container) {
 function renderRecommended() {
   const container = $("#recommendedSites");
   if (!container) return;
-  container.innerHTML = sites.filter(site => ["unsplash","undraw","heroicons"].includes(site.id)).map(site=>cardMarkup(site)).join("");
+
+  const recommendedNames = ["Unsplash", "unDraw", "Heroicons"];
+
+  container.innerHTML = sites
+    .filter(site => recommendedNames.includes(site.name))
+    .map(site => cardMarkup(site))
+    .join("");
+
   bindCardActions(container);
 }
 function renderExplore() {
@@ -113,17 +154,42 @@ function applySearch(query) {
   activeCategory = "전체";
   renderExplore();
 }
-function init() {
+async function init() {
+  await loadSites();
+
   renderRecommended();
   renderExplore();
   renderSaved();
   updateSavedBadge();
-  $$("[data-page]").forEach(button => button.addEventListener("click", () => showPage(button.dataset.page))); $$
-("[data-category-link]").forEach(button => button.addEventListener("click", () => { showPage("explore"); setCategory(button.dataset.categoryLink); }));
-  $("#homeSearchForm").addEventListener("submit", event => { event.preventDefault(); applySearch($("#homeQuery").value); });
-  $("#searchForm").addEventListener("submit", event => { event.preventDefault(); renderExplore(); });
+
+  $$("[data-page]").forEach(button =>
+    button.addEventListener("click", () => showPage(button.dataset.page))
+  );
+
+  $$("[data-category-link]").forEach(button =>
+    button.addEventListener("click", () => {
+      showPage("explore");
+      setCategory(button.dataset.categoryLink);
+    })
+  );
+
+  $("#homeSearchForm").addEventListener("submit", event => {
+    event.preventDefault();
+    applySearch($("#homeQuery").value);
+  });
+
+  $("#searchForm").addEventListener("submit", event => {
+    event.preventDefault();
+    renderExplore();
+  });
+
   $("#searchQuery").addEventListener("input", renderExplore);
-  $("#categoryChips").addEventListener("click", event => { const button = event.target.closest("[data-category]"); if (button) setCategory(button.dataset.category); });
+
+  $("#categoryChips").addEventListener("click", event => {
+    const button = event.target.closest("[data-category]");
+    if (button) setCategory(button.dataset.category);
+  });
+
   $("#sortSelect").addEventListener("change", renderExplore);
   $("#resetSearch").addEventListener("click", resetSearch);
   $("#detailSaveButton").addEventListener("click", () => toggleSave(currentSiteId));
