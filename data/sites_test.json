@@ -1,0 +1,47 @@
+{
+  "description": "MVP example directory data for free asset/resource websites. Verify licensing and terms at each original site.",
+  "sites": [
+    {
+      "id": "unsplash",
+      "name": "Unsplash",
+      "category": "사진",
+      "type": "사진 · 배경 이미지",
+      "url": "https://unsplash.com/"
+    },
+    {
+      "id": "pexels",
+      "name": "Pexels",
+      "category": "사진",
+      "type": "사진 · 동영상",
+      "url": "https://www.pexels.com/"
+    },
+    {
+      "id": "undraw",
+      "name": "unDraw",
+      "category": "일러스트",
+      "type": "일러스트 · SVG",
+      "url": "https://undraw.co/"
+    },
+    {
+      "id": "opendoodles",
+      "name": "Open Doodles",
+      "category": "일러스트",
+      "type": "캐릭터 · 일러스트",
+      "url": "https://www.opendoodles.com/"
+    },
+    {
+      "id": "heroicons",
+      "name": "Heroicons",
+      "category": "아이콘",
+      "type": "아이콘 · UI",
+      "url": "https://heroicons.com/"
+    },
+    {
+      "id": "fonts",
+      "name": "Google Fonts",
+      "category": "폰트",
+      "type": "폰트 · 타이포그래피",
+      "url": "https://fonts.google.com/"
+    }
+  ]
+}

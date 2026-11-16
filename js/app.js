@@ -12,7 +12,7 @@ const categoryMap = {
 // JSON 데이터 불러오기
 async function loadSites() {
   try {
-    const response = await fetch("data/asset_hub_sites_dataset.json");
+    const response = await fetch("data/asset_hub_data.json");
 
     if (!response.ok) {
       throw new Error("데이터 파일을 불러오지 못했습니다.");
@@ -31,7 +31,9 @@ async function loadSites() {
         description: item.description,
         url: item.url,
         free: item.description,
-        tags: [category, item.source || "에셋 사이트"]
+        tags: [category, item.source || "에셋 사이트"],
+        keywords: item.keywords || [],
+        aliases: item.aliases || []
       };
     });
 
@@ -104,7 +106,16 @@ function renderExplore() {
   const query = ($("#searchQuery")?.value || "").trim().toLowerCase();
   const filtered = sites.filter(site => {
     const matchesCategory = activeCategory === "전체" || site.category === activeCategory;
-    const matchesQuery = !query || `${site.name} ${site.type} ${site.description} ${site.tags.join(" ")}`.toLowerCase().includes(query);
+    const searchText = [
+      site.name,
+      site.type,
+      site.description,
+      ...site.tags,
+      ...site.keywords,
+      ...site.aliases
+    ].join(" ").toLowerCase();
+
+    const matchesQuery = !query || searchText.includes(query);
     return matchesCategory && matchesQuery;
   });
   if ($("#sortSelect")?.value === "name") filtered.sort((a,b)=>a.name.localeCompare(b.name));

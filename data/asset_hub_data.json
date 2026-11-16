@@ -1,0 +1,3792 @@
+[
+  {
+    "name": "Best Free Fonts",
+    "url": "https://bestfreefonts.com",
+    "category": [
+      "font"
+    ],
+    "description": "A gallery of free fonts with SIL Open Font License.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "베스트 프리 폰츠",
+      "베스트 프리 폰트"
+    ]
+  },
+  {
+    "name": "DaFont",
+    "url": "https://www.dafont.com",
+    "category": [
+      "font"
+    ],
+    "description": "Archive of downloadable fonts searchable by style, author, and popularity.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트",
+      "폰트 검색",
+      "디스플레이 폰트",
+      "장식 글꼴"
+    ],
+    "aliases": [
+      "다폰트",
+      "다 폰트"
+    ]
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com",
+    "category": [
+      "font"
+    ],
+    "description": "Free and open-source font families with web and Android integration.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트",
+      "웹 폰트",
+      "오픈소스 폰트",
+      "한글 글꼴"
+    ],
+    "aliases": [
+      "구글 폰트",
+      "구글폰트",
+      "구글 웹폰트"
+    ]
+  },
+  {
+    "name": "Use & Modify",
+    "url": "https://usemodify.com",
+    "category": [
+      "font"
+    ],
+    "description": "Curated typefaces released under open-source licenses.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "유즈 앤 모디파이",
+      "유즈 앤드 모디파이",
+      "유즈앤모디파이"
+    ]
+  },
+  {
+    "name": "Font Fabric",
+    "url": "https://www.fontfabric.com/font-tag/free-fonts/",
+    "category": [
+      "font"
+    ],
+    "description": "Digital type foundry with free font selections.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰트 패브릭",
+      "폰트패브릭"
+    ]
+  },
+  {
+    "name": "Font Squirrel",
+    "url": "https://www.fontsquirrel.com",
+    "category": [
+      "font"
+    ],
+    "description": "Fonts curated for legitimate free use.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰트 스쿼럴",
+      "폰트스쿼럴"
+    ]
+  },
+  {
+    "name": "FontsWiki",
+    "url": "https://fontswiki.com",
+    "category": [
+      "font"
+    ],
+    "description": "Font discovery site with free alternatives and font-in-use examples.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰츠위키",
+      "폰트 위키",
+      "폰트위키"
+    ]
+  },
+  {
+    "name": "FreeFaces",
+    "url": "https://www.freefaces.gallery/",
+    "category": [
+      "font"
+    ],
+    "description": "Curated collection of typefaces available under various free licenses.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "프리페이시스",
+      "프리 페이스",
+      "Free Faces"
+    ]
+  },
+  {
+    "name": "Lost Type Co-op",
+    "url": "https://losttype.com",
+    "category": [
+      "font"
+    ],
+    "description": "Collaborative digital type foundry.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "로스트 타입",
+      "로스트 타입 코옵",
+      "Lost Type",
+      "로스트타입"
+    ]
+  },
+  {
+    "name": "Google Web Fonts Typographic Project",
+    "url": "https://femmebot.github.io/google-type/",
+    "category": [
+      "font"
+    ],
+    "description": "Showcase of Google Fonts and their typographic features.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com",
+    "category": [
+      "font"
+    ],
+    "description": "Open-source type foundry.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "리그 오브 무버블 타입",
+      "The League of Moveable Type",
+      "더 리그 오브 무버블 타입",
+      "무버블 타입"
+    ]
+  },
+  {
+    "name": "Velvetyne Type Foundry",
+    "url": "https://velvetyne.fr",
+    "category": [
+      "font"
+    ],
+    "description": "Publishes open-source fonts.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "벨베틴 타입 파운드리",
+      "벨베틴",
+      "Velvetyne"
+    ]
+  },
+  {
+    "name": "Font Library",
+    "url": "https://fontlibrary.org",
+    "category": [
+      "font"
+    ],
+    "description": "Library of open-source fonts for multiple languages and scripts.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰트 라이브러리"
+    ]
+  },
+  {
+    "name": "CLT",
+    "url": "https://www.collletttivo.it/typefaces/",
+    "category": [
+      "font"
+    ],
+    "description": "Typefaces released under SIL Open Font License.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "씨엘티",
+      "콜렛티보",
+      "콜레티보",
+      "Collletttivo"
+    ]
+  },
+  {
+    "name": "Icons8",
+    "url": "https://icons8.com/icons",
+    "category": [
+      "icon"
+    ],
+    "description": "Design elements including icons and other visual assets.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘",
+      "아이콘 모음",
+      "일러스트",
+      "디자인 리소스"
+    ],
+    "aliases": [
+      "아이콘스8",
+      "아이콘즈8",
+      "아이콘8"
+    ]
+  },
+  {
+    "name": "The Noun Project",
+    "url": "https://thenounproject.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Collection of icons and stock photos.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘",
+      "심볼 아이콘"
+    ],
+    "aliases": [
+      "더 나운 프로젝트",
+      "나운 프로젝트",
+      "나운프로젝트"
+    ]
+  },
+  {
+    "name": "Ionicons",
+    "url": "https://ionic.io/ionicons",
+    "category": [
+      "icon"
+    ],
+    "description": "Open-source MIT-licensed icons for web, mobile, and desktop.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "아이오닉 아이콘",
+      "아이오니콘스",
+      "아이오닉"
+    ]
+  },
+  {
+    "name": "Simple Icons",
+    "url": "https://simpleicons.org",
+    "category": [
+      "icon"
+    ],
+    "description": "Free SVG icons for popular brands.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "심플 아이콘",
+      "심플 아이콘스",
+      "심플아이콘"
+    ]
+  },
+  {
+    "name": "FontAwesome",
+    "url": "https://fontawesome.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Icon and font toolkit.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "폰트어썸",
+      "폰트 어썸",
+      "Font Awesome"
+    ]
+  },
+  {
+    "name": "Feather",
+    "url": "https://feathericons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Open-source icon collection with consistent 24 by 24 designs.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "페더 아이콘",
+      "페더",
+      "Feather Icons"
+    ]
+  },
+  {
+    "name": "Material Symbols",
+    "url": "https://fonts.google.com/icons",
+    "category": [
+      "icon"
+    ],
+    "description": "Google variable icon font with adjustable visual properties.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "머티리얼 심볼",
+      "머티리얼 아이콘",
+      "머터리얼 심볼"
+    ]
+  },
+  {
+    "name": "Phosphor Icons",
+    "url": "https://phosphoricons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Flexible icon family for interfaces, diagrams, and presentations.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "포스퍼 아이콘",
+      "포스포 아이콘",
+      "포스퍼"
+    ]
+  },
+  {
+    "name": "Streamline",
+    "url": "https://streamlinehq.com/",
+    "category": [
+      "icon"
+    ],
+    "description": "Collection of icons, illustrations, emojis, and visual assets.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "스트림라인"
+    ]
+  },
+  {
+    "name": "Iconmonstr",
+    "url": "https://iconmonstr.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Library of simple icons.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "아이콘몬스터",
+      "아이콘 몬스터"
+    ]
+  },
+  {
+    "name": "Heroicons",
+    "url": "https://heroicons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Free MIT-licensed SVG icons.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "히어로아이콘",
+      "히어로 아이콘"
+    ]
+  },
+  {
+    "name": "Bootstrap Icons",
+    "url": "https://icons.getbootstrap.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Official open-source SVG icon library for Bootstrap.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "부트스트랩 아이콘",
+      "부트스트랩아이콘"
+    ]
+  },
+  {
+    "name": "Eva Icons",
+    "url": "https://akveo.github.io/eva-icons",
+    "category": [
+      "icon"
+    ],
+    "description": "Open-source icon pack.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "에바 아이콘",
+      "이바 아이콘"
+    ]
+  },
+  {
+    "name": "AutoDraw",
+    "url": "https://www.autodraw.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Google tool that turns rough sketches into editable icons.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘",
+      "그림 자동 변환",
+      "손그림 아이콘"
+    ],
+    "aliases": [
+      "오토드로우",
+      "오토 드로우"
+    ]
+  },
+  {
+    "name": "Lucide",
+    "url": "https://lucide.dev",
+    "category": [
+      "icon"
+    ],
+    "description": "Open-source icon library forked from Feather Icons.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "루시드 아이콘",
+      "루시드"
+    ]
+  },
+  {
+    "name": "Tabler Icons",
+    "url": "https://tabler.io/icons",
+    "category": [
+      "icon"
+    ],
+    "description": "MIT-licensed SVG icon library.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "태블러 아이콘",
+      "타블러 아이콘"
+    ]
+  },
+  {
+    "name": "Iconoir",
+    "url": "https://iconoir.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Open-source SVG icon library with React and Vue components.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "아이코노어",
+      "아이코노아르"
+    ]
+  },
+  {
+    "name": "Remix Icon",
+    "url": "https://remixicon.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Open-source icon set for designers and developers.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "리믹스 아이콘",
+      "리믹스",
+      "리믹스아이콘"
+    ]
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free images and photos for projects.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진",
+      "무료 이미지",
+      "풍경 사진",
+      "인물 사진"
+    ],
+    "aliases": [
+      "언스플래시",
+      "언스플래쉬",
+      "언스플"
+    ]
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com/",
+    "category": [
+      "photo"
+    ],
+    "description": "Free stock photos and videos.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "무료 동영상",
+      "스톡 이미지",
+      "영상 소스",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "펙셀스",
+      "펙셀"
+    ]
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "category": [
+      "photo",
+      "vector"
+    ],
+    "description": "Community library of images, videos, and music.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "무료 이미지",
+      "무료 벡터",
+      "무료 동영상",
+      "음악 소스",
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "픽사베이",
+      "픽사 베이"
+    ]
+  },
+  {
+    "name": "Shopify Stock Photos",
+    "url": "https://www.shopify.com/stock-photos",
+    "category": [
+      "photo"
+    ],
+    "description": "Free stock photos and images for websites and commercial use.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "쇼피파이 스톡 포토",
+      "버스트",
+      "쇼피파이 버스트",
+      "쇼피파이 스톡포토",
+      "Burst"
+    ]
+  },
+  {
+    "name": "Kaboompics",
+    "url": "https://kaboompics.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free images for personal and commercial use, with photo color palettes.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "카붐픽스",
+      "카붐 픽스"
+    ]
+  },
+  {
+    "name": "StockSnap",
+    "url": "https://stocksnap.io",
+    "category": [
+      "photo"
+    ],
+    "description": "High-resolution stock photos.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "스톡스냅",
+      "스톡 스냅",
+      "StockSnap.io"
+    ]
+  },
+  {
+    "name": "Gratisography",
+    "url": "https://gratisography.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Collection of high-resolution free stock photos.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "그라티소그래피",
+      "그라티소그라피"
+    ]
+  },
+  {
+    "name": "Picjumbo",
+    "url": "https://picjumbo.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free photos for personal and commercial use.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "픽점보",
+      "픽 점보"
+    ]
+  },
+  {
+    "name": "Life of Pix",
+    "url": "https://www.lifeofpix.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free high-resolution photography.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "라이프 오브 픽스",
+      "라이프오브픽스"
+    ]
+  },
+  {
+    "name": "New Old Stock",
+    "url": "https://nos.twnsnd.co",
+    "category": [
+      "photo"
+    ],
+    "description": "Vintage photos from public archives.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "뉴 올드 스톡",
+      "뉴올드스톡"
+    ]
+  },
+  {
+    "name": "SplitShire",
+    "url": "https://www.splitshire.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Stock photos for personal and commercial use.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "상업용 사진"
+    ],
+    "aliases": [
+      "스플릿샤이어",
+      "스플릿 샤이어"
+    ]
+  },
+  {
+    "name": "DrawKit",
+    "url": "https://www.drawkit.com/",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free vector SVG illustrations.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "무료 SVG 일러스트",
+      "캐릭터 일러스트"
+    ],
+    "aliases": [
+      "드로우킷",
+      "드로우 키트"
+    ]
+  },
+  {
+    "name": "Open Peeps",
+    "url": "https://www.openpeeps.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Hand-drawn illustration library for creating scenes with people.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "사람 일러스트",
+      "캐릭터 일러스트"
+    ],
+    "aliases": [
+      "오픈 핍스",
+      "오픈 피프스",
+      "오픈핍스"
+    ]
+  },
+  {
+    "name": "Open Doodles",
+    "url": "https://www.opendoodles.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Sketch-style illustrations of people.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "손그림 일러스트",
+      "사람 그림"
+    ],
+    "aliases": [
+      "오픈 두들",
+      "오픈 두들스",
+      "오픈두들"
+    ]
+  },
+  {
+    "name": "Illustrations",
+    "url": "https://illustrations.co",
+    "category": [
+      "illustration"
+    ],
+    "description": "Open-source illustration collection.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Blush",
+    "url": "https://blush.design",
+    "category": [
+      "illustration"
+    ],
+    "description": "Illustration platform featuring work from selected artists.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "캐릭터 일러스트",
+      "일러스트 편집"
+    ],
+    "aliases": [
+      "블러시"
+    ]
+  },
+  {
+    "name": "Humaaans",
+    "url": "https://www.humaaans.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Mix-and-match illustrations of people.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "사람 캐릭터",
+      "인물 일러스트"
+    ],
+    "aliases": [
+      "휴먼스",
+      "휴머언스"
+    ]
+  },
+  {
+    "name": "unDraw",
+    "url": "https://undraw.co/illustrations",
+    "category": [
+      "illustration"
+    ],
+    "description": "Open-source illustrations.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "무료 SVG 일러스트",
+      "웹 일러스트"
+    ],
+    "aliases": [
+      "언드로우",
+      "언드로"
+    ]
+  },
+  {
+    "name": "Lukas Zadam",
+    "url": "https://lukaszadam.com/illustrations",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free illustrations and resources by an independent artist.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "루카스 자담",
+      "Lukasz Adam",
+      "루카스 아담"
+    ]
+  },
+  {
+    "name": "IRA Design",
+    "url": "https://www.creative-tim.com/tools/ira-design",
+    "category": [
+      "illustration"
+    ],
+    "description": "Customizable illustrations with colors, shapes, and elements.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "그라데이션 일러스트",
+      "커스텀 일러스트"
+    ],
+    "aliases": [
+      "아이알에이 디자인",
+      "아이라 디자인",
+      "Ira Design",
+      "아이라디자인"
+    ]
+  },
+  {
+    "name": "Skribbl",
+    "url": "https://weareskribbl.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Hand-drawn illustrations in multiple categories.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "스크리블"
+    ]
+  },
+  {
+    "name": "Ouch!",
+    "url": "https://icons8.com/ouch",
+    "category": [
+      "illustration"
+    ],
+    "description": "Illustration collection in various styles and categories.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "아우치"
+    ]
+  },
+  {
+    "name": "Absurd Design",
+    "url": "https://absurd.design",
+    "category": [
+      "illustration"
+    ],
+    "description": "Surrealist illustrations for creative projects.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "앱서드 디자인",
+      "앱서드",
+      "앱서드디자인"
+    ]
+  },
+  {
+    "name": "Patterns.page",
+    "url": "https://patterns.page/",
+    "category": [
+      "illustration"
+    ],
+    "description": "Toolbox with patterns, illustrations, and design assets.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "패턴 배경",
+      "배경 패턴"
+    ],
+    "aliases": [
+      "패턴스 페이지",
+      "패턴 페이지"
+    ]
+  },
+  {
+    "name": "Illustroke",
+    "url": "https://illustroke.com",
+    "category": [
+      "illustration",
+      "vector"
+    ],
+    "description": "AI tool for generating SVG vector illustrations.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "AI 일러스트",
+      "SVG 생성",
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스"
+    ],
+    "aliases": [
+      "일러스트로크"
+    ]
+  },
+  {
+    "name": "Recraft",
+    "url": "https://www.recraft.ai",
+    "category": [
+      "illustration"
+    ],
+    "description": "AI-powered tool for creating and editing vector art and illustrations.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "AI 벡터",
+      "이미지 생성",
+      "벡터 편집"
+    ],
+    "aliases": [
+      "리크래프트"
+    ]
+  },
+  {
+    "name": "Kittl",
+    "url": "https://www.kittl.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Design platform for illustrations and print-ready designs.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터",
+      "그래픽 디자인",
+      "인쇄 디자인"
+    ],
+    "aliases": [
+      "키틀"
+    ]
+  },
+  {
+    "name": "Vecteezy",
+    "url": "https://www.vecteezy.com",
+    "category": [
+      "vector",
+      "illustration"
+    ],
+    "description": "Free and premium vector art, clipart graphics, templates, and illustrations.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스",
+      "무료 벡터",
+      "그래픽 리소스",
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "벡티지"
+    ]
+  },
+  {
+    "name": "VectorStock",
+    "url": "https://www.vectorstock.com",
+    "category": [
+      "vector"
+    ],
+    "description": "Free and premium vector art and illustrations.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스",
+      "벡터 그래픽",
+      "스톡 벡터"
+    ],
+    "aliases": [
+      "벡터스톡",
+      "벡터 스톡"
+    ]
+  },
+  {
+    "name": "Public Domain Vectors",
+    "url": "https://publicdomainvectors.org",
+    "category": [
+      "vector"
+    ],
+    "description": "A collection of free vector images in the public domain.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스",
+      "퍼블릭 도메인 이미지",
+      "저작권 걱정 없는 벡터"
+    ],
+    "aliases": [
+      "퍼블릭 도메인 벡터"
+    ]
+  },
+  {
+    "name": "Vector Portal",
+    "url": "https://www.vectorportal.com",
+    "category": [
+      "vector"
+    ],
+    "description": "Free vector images, clipart, and vector graphics.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스"
+    ],
+    "aliases": [
+      "벡터 포털",
+      "벡터포털"
+    ]
+  },
+  {
+    "name": "Flaticon",
+    "url": "https://www.flaticon.com",
+    "category": [
+      "vector",
+      "icon"
+    ],
+    "description": "Vector and icon assets available in formats including PNG, SVG, EPS, and PSD.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스",
+      "PNG 아이콘",
+      "SVG 아이콘",
+      "아이콘 다운로드",
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "플래티콘"
+    ]
+  },
+  {
+    "name": "Vector4Free",
+    "url": "https://www.vector4free.com",
+    "category": [
+      "vector"
+    ],
+    "description": "A curated collection of free vector graphics.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스"
+    ],
+    "aliases": [
+      "벡터 포 프리",
+      "벡터포프리",
+      "벡터4프리"
+    ]
+  },
+  {
+    "name": "Stockio",
+    "url": "https://www.stockio.com",
+    "category": [
+      "vector"
+    ],
+    "description": "Free vectors, photos, videos, and fonts for personal and commercial use.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스"
+    ],
+    "aliases": [
+      "스톡시오"
+    ]
+  },
+  {
+    "name": "SVGRepo",
+    "url": "https://www.svgrepo.com",
+    "category": [
+      "vector",
+      "icon"
+    ],
+    "description": "A large collection of open-licensed SVG vectors and icons.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "벡터",
+      "벡터 이미지",
+      "SVG",
+      "클립아트",
+      "일러스트 이미지",
+      "그래픽 소스",
+      "SVG 파일",
+      "무료 SVG",
+      "벡터 아이콘",
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "에스브이지 레포",
+      "SVG 레포",
+      "SVG Repo",
+      "에스브이지레포"
+    ]
+  },
+  {
+    "name": "Sketch App Sources",
+    "url": "https://www.sketchappsources.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "A collection of Sketch files, resources, and tutorials.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "스케치 앱 소스"
+    ]
+  },
+  {
+    "name": "UI8",
+    "url": "https://ui8.net",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Marketplace for UI kits, design systems, and resources; includes premium content.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "UI 템플릿",
+      "앱 디자인",
+      "웹 디자인 리소스"
+    ],
+    "aliases": [
+      "유아이 에잇",
+      "유아이8",
+      "UI 8"
+    ]
+  },
+  {
+    "name": "Creative Tim",
+    "url": "https://www.creative-tim.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Bootstrap UI kits, templates, and design tools for web development.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "부트스트랩 템플릿",
+      "대시보드 UI"
+    ],
+    "aliases": [
+      "크리에이티브 팀",
+      "크리에이티브팀"
+    ]
+  },
+  {
+    "name": "Tilda",
+    "url": "https://tilda.cc",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Web design platform with a collection of UI kits and templates.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "틸다"
+    ]
+  },
+  {
+    "name": "Freebiesbug",
+    "url": "https://freebiesbug.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Curated collection of free design resources, including UI kits and templates.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "프리비즈버그",
+      "프리비즈 버그"
+    ]
+  },
+  {
+    "name": "Pixel Buddha",
+    "url": "https://pixelbuddha.net",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free and premium design resources, including UI kits, templates, and mockups.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "픽셀 부다",
+      "픽셀붓다",
+      "픽셀부다"
+    ]
+  },
+  {
+    "name": "UI Kitten",
+    "url": "https://akveo.github.io",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "React Native UI library with customizable UI kits.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "유아이 키튼",
+      "유아이키튼",
+      "UI 키튼"
+    ]
+  },
+  {
+    "name": "Designmodo",
+    "url": "https://designmodo.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free and premium UI kits, templates, and design tools.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "디자인모도"
+    ]
+  },
+  {
+    "name": "UIKit",
+    "url": "https://getuikit.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Lightweight modular front-end framework for building web interfaces.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "유아이킷",
+      "유아이 키트"
+    ]
+  },
+  {
+    "name": "UI Design Daily",
+    "url": "https://www.uidesigndaily.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Daily UI design inspiration and free UI kits.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "유아이 디자인 데일리"
+    ]
+  },
+  {
+    "name": "Material UI",
+    "url": "https://mui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "React components for web development based on Material Design.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "머티리얼 유아이",
+      "머티리얼 UI",
+      "MUI",
+      "엠유아이"
+    ]
+  },
+  {
+    "name": "Figma Community",
+    "url": "https://www.figma.com/community",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Community collection of UI kits, templates, and design resources.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "피그마 템플릿",
+      "피그마 UI 키트",
+      "프로토타입 리소스"
+    ],
+    "aliases": [
+      "피그마 커뮤니티",
+      "피그마"
+    ]
+  },
+  {
+    "name": "Craftwork",
+    "url": "https://craftwork.design",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Marketplace for UI kits, templates, and design resources.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "크래프트워크"
+    ]
+  },
+  {
+    "name": "PSD Repo",
+    "url": "https://psdrepo.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Collection of free PSD UI kits and templates.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "피에스디 레포",
+      "PSD 레포"
+    ]
+  },
+  {
+    "name": "SketchRepo",
+    "url": "https://sketchrepo.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free Sketch UI kits and resources.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "스케치레포",
+      "스케치 레포"
+    ]
+  },
+  {
+    "name": "UI Store",
+    "url": "https://www.uistore.design",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free and premium UI kits, templates, and design resources.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "유아이 스토어"
+    ]
+  },
+  {
+    "name": "HTMLrev",
+    "url": "https://htmlrev.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free HTML and CSS templates, UI libraries, and boilerplates.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "HTML 템플릿",
+      "CSS 템플릿",
+      "웹사이트 템플릿"
+    ],
+    "aliases": [
+      "에이치티엠엘 레브",
+      "HTML 레브"
+    ]
+  },
+  {
+    "name": "21st.dev",
+    "url": "https://21st.dev",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Community-driven registry of React UI components built with Tailwind CSS and Radix UI.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "트웬티 퍼스트 데브",
+      "트웬티퍼스트"
+    ]
+  },
+  {
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Accessible UI components built with Tailwind CSS and Radix UI primitives.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "리액트 컴포넌트",
+      "테일윈드 CSS",
+      "프론트엔드 UI"
+    ],
+    "aliases": [
+      "샤드씨엔 유아이",
+      "샤드씨엔",
+      "샤드시엔",
+      "샤드시엔 유아이",
+      "shadcn"
+    ]
+  },
+  {
+    "name": "Radix UI",
+    "url": "https://www.radix-ui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Open-source accessible UI primitives.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "접근성 컴포넌트",
+      "리액트 UI"
+    ],
+    "aliases": [
+      "래딕스 유아이",
+      "래딕스"
+    ]
+  },
+  {
+    "name": "DaisyUI",
+    "url": "https://daisyui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Tailwind CSS component library with styled, themeable UI components.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "테일윈드 컴포넌트",
+      "CSS UI 컴포넌트"
+    ],
+    "aliases": [
+      "데이지 유아이",
+      "데이지UI"
+    ]
+  },
+  {
+    "name": "Uiverse",
+    "url": "https://uiverse.io",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Open-source community library of HTML and CSS UI elements.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "CSS 효과",
+      "버튼 디자인",
+      "UI 요소"
+    ],
+    "aliases": [
+      "유니버스",
+      "유아이버스"
+    ]
+  },
+  {
+    "name": "Magic UI",
+    "url": "https://magicui.design",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Collection of open-source animated React components.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "애니메이션 컴포넌트",
+      "리액트 UI"
+    ],
+    "aliases": [
+      "매직 유아이",
+      "매직UI"
+    ]
+  },
+  {
+    "name": "Aceternity UI",
+    "url": "https://ui.aceternity.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "React components with animations using Tailwind CSS and Framer Motion.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "애니메이션 UI",
+      "테일윈드 컴포넌트"
+    ],
+    "aliases": [
+      "아세터니티 유아이",
+      "아세터니티"
+    ]
+  },
+  {
+    "name": "Headless UI",
+    "url": "https://headlessui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Unstyled accessible UI components for React and Vue.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "리액트 컴포넌트",
+      "뷰 컴포넌트"
+    ],
+    "aliases": [
+      "헤드리스 유아이"
+    ]
+  },
+  {
+    "name": "Ark UI",
+    "url": "https://ark-ui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Headless UI component library for React, Vue, and Solid.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "아크 유아이"
+    ]
+  },
+  {
+    "name": "Park UI",
+    "url": "https://park-ui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Component library built on Ark UI.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "파크 유아이"
+    ]
+  },
+  {
+    "name": "HeroUI",
+    "url": "https://heroui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "React UI library with theme support and accessible components.",
+    "source": "reinaldosimoes/design-resources, noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "히어로 유아이",
+      "히어로UI",
+      "히어로유아이"
+    ]
+  },
+  {
+    "name": "Tremor",
+    "url": "https://www.tremor.so",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "React components for dashboards, charts, tables, and data visualization.",
+    "source": "reinaldosimoes/design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인",
+      "대시보드 컴포넌트",
+      "차트 UI",
+      "데이터 시각화"
+    ],
+    "aliases": [
+      "트레머"
+    ]
+  },
+  {
+    "name": "Fontshare",
+    "url": "https://www.fontshare.com",
+    "category": [
+      "font"
+    ],
+    "description": "High-quality free fonts (incl. commercial) by Indian Type Foundry",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰트셰어",
+      "폰트쉐어",
+      "폰트 셰어",
+      "폰트 쉐어"
+    ]
+  },
+  {
+    "name": "Fontesk",
+    "url": "https://fontesk.com",
+    "category": [
+      "font"
+    ],
+    "description": "Curated free & commercial-use fonts, updated daily",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰테스크"
+    ]
+  },
+  {
+    "name": "Befonts",
+    "url": "https://befonts.com",
+    "category": [
+      "font"
+    ],
+    "description": "Free fonts and demo/personal-use typefaces",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "비폰츠",
+      "비폰트"
+    ]
+  },
+  {
+    "name": "1001 Fonts",
+    "url": "https://www.1001fonts.com",
+    "category": [
+      "font"
+    ],
+    "description": "Large free font directory with commercial-use filter",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "천일 폰트",
+      "1001폰트",
+      "천일폰트",
+      "1001 폰트"
+    ]
+  },
+  {
+    "name": "Open Foundry",
+    "url": "https://open-foundry.com",
+    "category": [
+      "font"
+    ],
+    "description": "Curated open-source typefaces",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "오픈 파운드리"
+    ]
+  },
+  {
+    "name": "Uncut.wtf",
+    "url": "https://uncut.wtf",
+    "category": [
+      "font"
+    ],
+    "description": "Contemporary free & open-source type library",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "언컷",
+      "언컷 더블유티에프"
+    ]
+  },
+  {
+    "name": "Atipo Foundry",
+    "url": "https://www.atipofoundry.com",
+    "category": [
+      "font"
+    ],
+    "description": "Pay-what-you-want quality fonts",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "아티포 파운드리",
+      "아티포"
+    ]
+  },
+  {
+    "name": "Indestructible Type",
+    "url": "https://indestructibletype.com",
+    "category": [
+      "font"
+    ],
+    "description": "Free, open-source fonts",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "인디스트럭터블 타입",
+      "인디스트럭티블 타입",
+      "인디스트럭터블"
+    ]
+  },
+  {
+    "name": "Fontsource",
+    "url": "https://fontsource.org",
+    "category": [
+      "font"
+    ],
+    "description": "Self-host open-source fonts via npm",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰트소스"
+    ]
+  },
+  {
+    "name": "FontSpace",
+    "url": "https://www.fontspace.com",
+    "category": [
+      "font"
+    ],
+    "description": "100,000+ free fonts with license filters",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "폰트스페이스",
+      "폰트 스페이스"
+    ]
+  },
+  {
+    "name": "CufonFonts",
+    "url": "https://www.cufonfonts.com",
+    "category": [
+      "font"
+    ],
+    "description": "Large free font archive incl. Arabic",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "큐폰 폰트",
+      "큐폰",
+      "큐폰폰트"
+    ]
+  },
+  {
+    "name": "Pangram Pangram (Free)",
+    "url": "https://pangrampangram.com",
+    "category": [
+      "font"
+    ],
+    "description": "Free quality fonts from a premium foundry",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "팬그램 팬그램",
+      "팬그램팬그램",
+      "팬그램"
+    ]
+  },
+  {
+    "name": "Brick",
+    "url": "https://brick.im",
+    "category": [
+      "font"
+    ],
+    "description": "Fast open-source font hosting",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "브릭"
+    ]
+  },
+  {
+    "name": "Google Webfonts Helper",
+    "url": "https://gwfh.mranftl.com",
+    "category": [
+      "font"
+    ],
+    "description": "Download & self-host Google Fonts easily",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "폰트",
+      "글꼴",
+      "글씨체",
+      "서체",
+      "타이포그래피",
+      "무료 폰트",
+      "영문 폰트"
+    ],
+    "aliases": [
+      "구글 웹폰트 헬퍼",
+      "구글 웹 폰트 헬퍼"
+    ]
+  },
+  {
+    "name": "Iconify",
+    "url": "https://iconify.design",
+    "category": [
+      "icon"
+    ],
+    "description": "200,000+ icons from 150+ open sets, one API",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "아이코니파이"
+    ]
+  },
+  {
+    "name": "Untitled UI Icons",
+    "url": "https://www.untitledui.com/icons",
+    "category": [
+      "icon"
+    ],
+    "description": "1,100+ clean free line icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "언타이틀드 UI 아이콘",
+      "언타이틀드 유아이 아이콘",
+      "언타이틀드 아이콘"
+    ]
+  },
+  {
+    "name": "Pixelarticons",
+    "url": "https://pixelarticons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Free pixel-style icon set",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "픽셀 아티콘",
+      "픽셀아티콘스",
+      "픽셀아티콘"
+    ]
+  },
+  {
+    "name": "Boxicons",
+    "url": "https://boxicons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "1,500+ free simple web icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "박스아이콘",
+      "박스 아이콘"
+    ]
+  },
+  {
+    "name": "Lineicons",
+    "url": "https://lineicons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "5,000+ free line & solid icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "라인아이콘",
+      "라인 아이콘"
+    ]
+  },
+  {
+    "name": "Radix Icons",
+    "url": "https://www.radix-ui.com/icons",
+    "category": [
+      "icon"
+    ],
+    "description": "Crisp 15×15 icons from Radix",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "래딕스 아이콘"
+    ]
+  },
+  {
+    "name": "css.gg",
+    "url": "https://css.gg",
+    "category": [
+      "icon"
+    ],
+    "description": "700+ open-source icons in pure CSS/SVG",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "씨에스에스 지지",
+      "CSS GG",
+      "씨에스에스지지"
+    ]
+  },
+  {
+    "name": "Teenyicons",
+    "url": "https://teenyicons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Tiny minimal 15×15 icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "티니아이콘",
+      "티니 아이콘"
+    ]
+  },
+  {
+    "name": "Akar Icons",
+    "url": "https://akaricons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Perfectly rounded open-source icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "아카르 아이콘"
+    ]
+  },
+  {
+    "name": "System UIcons",
+    "url": "https://systemuicons.com",
+    "category": [
+      "icon"
+    ],
+    "description": "Free interface icons, growing set",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "시스템 유아이콘",
+      "시스템 유아이콘스"
+    ]
+  },
+  {
+    "name": "Mono Icons",
+    "url": "https://icons.mono.company",
+    "category": [
+      "icon"
+    ],
+    "description": "Simple, consistent open-source set",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "모노 아이콘"
+    ]
+  },
+  {
+    "name": "Flowbite Icons",
+    "url": "https://flowbite.com/icons",
+    "category": [
+      "icon"
+    ],
+    "description": "Free solid & outline UI icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "아이콘",
+      "심볼",
+      "픽토그램",
+      "SVG 아이콘",
+      "무료 아이콘",
+      "UI 아이콘"
+    ],
+    "aliases": [
+      "플로우바이트 아이콘"
+    ]
+  },
+  {
+    "name": "Storyset",
+    "url": "https://storyset.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free customizable & animated illustrations by Freepik",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "스토리셋"
+    ]
+  },
+  {
+    "name": "Illustrations by Popsy",
+    "url": "https://popsy.co/illustrations",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free customizable illustrations",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "팝시"
+    ]
+  },
+  {
+    "name": "Glaze",
+    "url": "https://www.glazestock.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free illustrations for commercial & personal use",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "글레이즈",
+      "글레이즈 스톡"
+    ]
+  },
+  {
+    "name": "ManyPixels Gallery",
+    "url": "https://www.manypixels.co/gallery",
+    "category": [
+      "illustration"
+    ],
+    "description": "2,500+ free illustrations, editable",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "매니픽셀스",
+      "매니 픽셀즈",
+      "매니픽셀스 갤러리",
+      "매니픽셀즈"
+    ]
+  },
+  {
+    "name": "Error 404",
+    "url": "https://error404.fun",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free illustrations for empty/error states",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "에러 404",
+      "에러404"
+    ]
+  },
+  {
+    "name": "Scale by Pixel True",
+    "url": "https://www.pixeltrue.com/free-illustrations",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free animated & static illustrations",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "픽셀트루",
+      "픽셀 트루",
+      "스케일 바이 픽셀 트루"
+    ]
+  },
+  {
+    "name": "Black Illustrations",
+    "url": "https://www.blackillustrations.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free illustrations of Black people",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "블랙 일러스트레이션",
+      "블랙 일러스트"
+    ]
+  },
+  {
+    "name": "Fresh Folk",
+    "url": "https://fresh-folk.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Illustration library of people & objects",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "프레시 포크",
+      "프레쉬 포크"
+    ]
+  },
+  {
+    "name": "Avataaars",
+    "url": "https://getavataaars.com",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free mix-and-match avatar generator",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "아바타즈",
+      "아바타스"
+    ]
+  },
+  {
+    "name": "Croods",
+    "url": "https://croods.io",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free customizable character illustrations",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "크루즈"
+    ]
+  },
+  {
+    "name": "Transhumans",
+    "url": "https://transhumans.xyz",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free quirky 3D-ish character illustrations",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "트랜스휴먼스",
+      "트랜스휴먼"
+    ]
+  },
+  {
+    "name": "Stubborn",
+    "url": "https://stubborn.fun",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free hand-drawn character illustrations",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "스터번"
+    ]
+  },
+  {
+    "name": "Delesign",
+    "url": "https://delesign.com/free-designs/graphics",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free graphics & illustrations",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "델레사인",
+      "델리사인"
+    ]
+  },
+  {
+    "name": "Isometric",
+    "url": "https://isometric.online",
+    "category": [
+      "illustration"
+    ],
+    "description": "Free isometric illustration builder",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "일러스트",
+      "일러스트레이션",
+      "그림",
+      "삽화",
+      "벡터 일러스트",
+      "캐릭터"
+    ],
+    "aliases": [
+      "아이소메트릭"
+    ]
+  },
+  {
+    "name": "Reshot",
+    "url": "https://www.reshot.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free handpicked photos & icons",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "리샷"
+    ]
+  },
+  {
+    "name": "Realistic Shots",
+    "url": "https://realisticshots.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free high-quality stock photos",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "리얼리스틱 샷츠",
+      "리얼리스틱샷"
+    ]
+  },
+  {
+    "name": "ISO Republic",
+    "url": "https://isorepublic.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free photos & videos for creatives",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "아이에스오 리퍼블릭",
+      "ISO 리퍼블릭"
+    ]
+  },
+  {
+    "name": "Foodiesfeed",
+    "url": "https://www.foodiesfeed.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free food photography",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "푸디스피드",
+      "푸디즈피드"
+    ]
+  },
+  {
+    "name": "Nappy",
+    "url": "https://nappy.co",
+    "category": [
+      "photo"
+    ],
+    "description": "Free photos of Black and Brown people",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "내피",
+      "냅피"
+    ]
+  },
+  {
+    "name": "Openverse",
+    "url": "https://openverse.org",
+    "category": [
+      "photo"
+    ],
+    "description": "Search 800M+ openly-licensed images",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "오픈버스"
+    ]
+  },
+  {
+    "name": "Negative Space",
+    "url": "https://negativespace.co",
+    "category": [
+      "photo"
+    ],
+    "description": "Free high-resolution stock photos",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "네거티브 스페이스",
+      "네거티브스페이스"
+    ]
+  },
+  {
+    "name": "Rawpixel (Free)",
+    "url": "https://www.rawpixel.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free photos, PSDs & public-domain art",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "로우픽셀",
+      "로 픽셀",
+      "로픽셀"
+    ]
+  },
+  {
+    "name": "Picography",
+    "url": "https://picography.co",
+    "category": [
+      "photo"
+    ],
+    "description": "Free hi-res photos, no restrictions",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "피코그래피",
+      "픽오그래피"
+    ]
+  },
+  {
+    "name": "Skitterphoto",
+    "url": "https://skitterphoto.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free public-domain photos",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "스키터포토",
+      "스키터 포토"
+    ]
+  },
+  {
+    "name": "Libreshot",
+    "url": "https://libreshot.com",
+    "category": [
+      "photo"
+    ],
+    "description": "Free photos for any use",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "리브레샷",
+      "리브레 샷"
+    ]
+  },
+  {
+    "name": "Magdeleine",
+    "url": "https://magdeleine.co",
+    "category": [
+      "photo"
+    ],
+    "description": "Hand-picked free photos, daily",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "막달렌",
+      "마들렌"
+    ]
+  },
+  {
+    "name": "Styled Stock",
+    "url": "https://styledstock.co",
+    "category": [
+      "photo"
+    ],
+    "description": "Free styled photos for brands",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "스타일드 스톡"
+    ]
+  },
+  {
+    "name": "The Stocks",
+    "url": "https://thestocks.im",
+    "category": [
+      "photo"
+    ],
+    "description": "Aggregator of the best free stock sites",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "더 스톡스",
+      "스톡스"
+    ]
+  },
+  {
+    "name": "Pikwizard",
+    "url": "https://pikwizard.com",
+    "category": [
+      "photo"
+    ],
+    "description": "1M+ free photos, many exclusive",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "픽위저드",
+      "픽 위저드"
+    ]
+  },
+  {
+    "name": "Generated Photos",
+    "url": "https://generated.photos",
+    "category": [
+      "photo"
+    ],
+    "description": "Free AI-generated human faces",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "사진",
+      "이미지",
+      "스톡 사진",
+      "무료 사진",
+      "배경 이미지",
+      "고화질 사진"
+    ],
+    "aliases": [
+      "제너레이티드 포토스",
+      "제너레이티드 포토"
+    ]
+  },
+  {
+    "name": "DjectStudio",
+    "url": "https://djectstudio.com/store",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Premium & free UI kits and design templates",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "디젝트 스튜디오",
+      "디젝트스튜디오"
+    ]
+  },
+  {
+    "name": "Untitled UI (Free)",
+    "url": "https://www.untitledui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free starter of the popular Figma UI kit",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "언타이틀드 UI",
+      "언타이틀드 유아이"
+    ]
+  },
+  {
+    "name": "Material Design Kit",
+    "url": "https://m3.material.io",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Google's official design kit & components",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "머티리얼 디자인 키트",
+      "머티리얼 디자인",
+      "구글 머티리얼",
+      "머티리얼3",
+      "M3"
+    ]
+  },
+  {
+    "name": "Apple Design Resources",
+    "url": "https://developer.apple.com/design/resources",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Official iOS/macOS UI kits",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "애플 디자인 리소스",
+      "애플 디자인"
+    ]
+  },
+  {
+    "name": "Tailwind UI Components",
+    "url": "https://tailwindcss.com/plus",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Component patterns (free preview + open Tailwind)",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "테일윈드 UI",
+      "테일윈드 플러스",
+      "테일윈드 UI 컴포넌트"
+    ]
+  },
+  {
+    "name": "Flowbite",
+    "url": "https://flowbite.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Open-source Tailwind UI components",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "플로우바이트"
+    ]
+  },
+  {
+    "name": "Open UI Kit Collection",
+    "url": "https://www.figma.com/community/search?resource_type=files&q=ui%20kit",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Browse community UI kits",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "오픈 UI 키트 컬렉션"
+    ]
+  },
+  {
+    "name": "Preline UI",
+    "url": "https://preline.co",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free open-source Tailwind UI components",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "프리라인 UI",
+      "프리라인 유아이",
+      "프리라인"
+    ]
+  },
+  {
+    "name": "Setproduct",
+    "url": "https://www.setproduct.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free & premium Figma design systems",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "셋프로덕트",
+      "셋 프로덕트"
+    ]
+  },
+  {
+    "name": "Mantine",
+    "url": "https://mantine.dev",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "120+ free React components & hooks",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "맨틴",
+      "만틴"
+    ]
+  },
+  {
+    "name": "Chakra UI",
+    "url": "https://chakra-ui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Accessible React component library",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "차크라 UI",
+      "차크라 유아이",
+      "차크라"
+    ]
+  },
+  {
+    "name": "Hyper UI",
+    "url": "https://www.hyperui.dev",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free open-source Tailwind components",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "하이퍼 UI",
+      "하이퍼 유아이"
+    ]
+  },
+  {
+    "name": "Meraki UI",
+    "url": "https://merakiui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free Tailwind components, RTL-ready",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "메라키 UI",
+      "메라키 유아이"
+    ]
+  },
+  {
+    "name": "Float UI",
+    "url": "https://floatui.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free modern Tailwind UI blocks",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "플로트 UI",
+      "플로트 유아이"
+    ]
+  },
+  {
+    "name": "HTML5 UP",
+    "url": "https://html5up.net",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free responsive HTML site templates",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "에이치티엠엘5 업",
+      "HTML5 업"
+    ]
+  },
+  {
+    "name": "Start Bootstrap",
+    "url": "https://startbootstrap.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free Bootstrap themes & templates",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "스타트 부트스트랩"
+    ]
+  },
+  {
+    "name": "Cruip",
+    "url": "https://cruip.com",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "Free Tailwind landing-page templates",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "크루입"
+    ]
+  },
+  {
+    "name": "Wicked Blocks",
+    "url": "https://wickedblocks.dev",
+    "category": [
+      "ui-kit"
+    ],
+    "description": "100+ free Tailwind blocks",
+    "source": "noahelhadedy/400-free-design-resources",
+    "keywords": [
+      "UI 키트",
+      "UI 디자인",
+      "웹 디자인",
+      "템플릿",
+      "컴포넌트",
+      "디자인 시스템",
+      "화면 디자인"
+    ],
+    "aliases": [
+      "위키드 블록스",
+      "위키드 블록"
+    ]
+  }
+]
